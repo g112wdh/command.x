@@ -8,7 +8,7 @@
 
     (注意密码不要用引号引起起来)
 
-2.  配置my.config, （不要用引号去把key或者value因起来，这个不是yaml)
+2.  配置my.config, （不要用引号去把key或者value引起来，这个不是yaml)
 
 3. 编写要执行的脚本 command.x ,这个脚本需要打印 RE:类型:RE，或者 RE:类型.一些信息:RE
 
